@@ -2,13 +2,21 @@ HDFS:
 
 https://databricks.com/glossary/hadoop-distributed-file-system-hdfs
 https://www.ibm.com/topics/hdfs
+https://www.datadoghq.com/blog/hadoop-architecture-overview/
+https://medium.com/@cm.oeiras01/uma-breve-introdução-do-hadoop-hdfs-hadoop-distributed-file-system-2-2-7694055a7917
+https://dspace.uniceplac.edu.br/bitstream/123456789/395/1/Andrés%20Júnior_13231614311_João%20Paulo%20Pereira_0005400_Wilton%20Silva_0005088.pdf
+https://dcomp.ufscar.br/verdi/topicosCloud/Hadoop.pdf
 
 GFS:
 
 https://www.ic.unicamp.br/~islene/2s2007-mo806/slides/GoogleFileSystem.pdf
 https://static.googleusercontent.com/media/research.google.com/pt-BR//archive/gfs-sosp2003.pdf
+https://lisha.ufsc.br/teaching/os/ine5355-2008-2/work/gfs.pdf
+https://www.dcce.ibilce.unesp.br/spd/pubs/dissertacaoSilas.pdf
+ITEM 3.2: https://www.teses.usp.br/teses/disponiveis/3/3141/tde-29122014-114815/publico/Diss_Sugawara.pdf
 
 GFS comparison HDFS:
 
 https://scialert.net/fulltext/?doi=rjit.2016.66.74
 https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.454.4159&rep=rep1&type=pdf#:~:text=Google%20File%20System%20is%20a,idea%20of%20the%20Google%20Mapreduce.
+https://cloud.google.com/blog/products/storage-data-transfer/hdfs-vs-cloud-storage-pros-cons-and-migration-tips
