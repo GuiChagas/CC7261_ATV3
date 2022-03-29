@@ -1,0 +1,14 @@
+HDFS:
+
+https://databricks.com/glossary/hadoop-distributed-file-system-hdfs
+https://www.ibm.com/topics/hdfs
+
+GFS:
+
+https://www.ic.unicamp.br/~islene/2s2007-mo806/slides/GoogleFileSystem.pdf
+https://static.googleusercontent.com/media/research.google.com/pt-BR//archive/gfs-sosp2003.pdf
+
+GFS comparison HDFS:
+
+https://scialert.net/fulltext/?doi=rjit.2016.66.74
+https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.454.4159&rep=rep1&type=pdf#:~:text=Google%20File%20System%20is%20a,idea%20of%20the%20Google%20Mapreduce.
